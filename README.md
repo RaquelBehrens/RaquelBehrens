@@ -24,7 +24,7 @@
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="TypeScript" alt="TypeScript" height="35" width="35" src="https://logospng.org/download/typescript/typescript-256.png">
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="React.Js" alt="React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="Next.Js" alt="Next.Js" height="30" width="30" src="https://blog.bywachira.com/nextjs.png">
   
  </div>
