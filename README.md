@@ -4,6 +4,9 @@
 
 - 🌱 I study Computer Science at [UFSC](https://cco.ufsc.br/)
 
+##
+
+<!--
 <br>
 
  <div>
@@ -13,6 +16,8 @@
 </div>
 
 ##
+
+-->
 
 <div style="display: inline_block">
   <h3>Studying / Developing:</h3>
