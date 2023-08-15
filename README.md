@@ -6,18 +6,20 @@
 
 ##
 
-<!--
+
 <br>
 
  <div>
   <a href="https://github.com/RaquelBehrens">
+   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelBehrens&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelBehrens&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
 
--->
+
 
 <div style="display: inline_block">
   <h3>Studying / Developing:</h3>
