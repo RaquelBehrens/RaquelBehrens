@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Raquel Behrens
 
-- 🔭 I’m currently working at [Laboratório Bridge](https://github.com/laboratoriobridge)
+- 👩‍💻 Software Developer at [Mercado Livre Brasil](https://www.linkedin.com/company/mercadolivre-com/)
 
-- 🌱 I study Computer Science at [UFSC](https://cco.ufsc.br/)
+- 📚 Computer Science Undergraduate Student at [UFSC](https://cco.ufsc.br/)
 
 ##
 
@@ -23,9 +23,8 @@
 
 <div style="display: inline_block">
   <h3>Studying / Developing:</h3>
-  
-  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" title="Scrapy" alt="Scrapy" height="30" width="30" src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png">
+
+  <img align="center" title="Golang" alt="Golang" height="25" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1024px-Go_Logo_Blue.svg.png">
   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,6 +32,8 @@
   <img align="center" title="TypeScript" alt="TypeScript" height="35" width="35" src="https://logospng.org/download/typescript/typescript-256.png">
   <img align="center" title="React.Js" alt="React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="Next.Js" alt="Next.Js" height="30" width="30" src="https://blog.bywachira.com/nextjs.png">
+  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" title="Scrapy" alt="Scrapy" height="30" width="30" src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png">
   
  </div>
 
